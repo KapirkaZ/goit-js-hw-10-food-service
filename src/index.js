@@ -1,4 +1,4 @@
-import './styles.css';
+import menuElement from './menu.json';
 import menuTemplate from './templates/template.hbs';
 import './changeTheme.js';
 import './styles.css';
